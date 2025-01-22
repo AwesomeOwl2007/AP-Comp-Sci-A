@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Pi
-comment0.text=\r\n\ Makes\ pie\r\n\r\n\ @author\ Kate\ V\r\n\ @version\ 4000\r\n
-comment1.params=fract
-comment1.target=Fraction\ findPi(Fraction)
-numComments=2
